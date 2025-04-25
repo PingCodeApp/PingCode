@@ -38,3 +38,6 @@ yarn-error.*
 app-example
 
 node_modules
+node_modules/
+
+node_modules/
